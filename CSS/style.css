@@ -221,7 +221,7 @@ div.name h1:nth-child(2)::after {
 div .ink {
     width: 500px;
     height: 450px;
-    bottom: 10em;
+    /* bottom: 10em; */
 }
 
 .theimages:hover .ink {
